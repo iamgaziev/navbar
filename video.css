@@ -1,0 +1,44 @@
+nav{
+    text-align: center;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(1, 236, 1);
+    width: 80%;
+    height: 10vh;
+    margin: -1vh;
+    padding: 0%;
+    position: absolute;
+    left: 10%;
+}
+.Menu{
+    width: 15%;
+    position: absolute;
+    left: 13%;
+    bottom: 3vh;
+    color: blue;
+}
+.Image{
+    width: 15%;
+    position: absolute;
+    left: 30%;
+    bottom: 3vh;
+    color: blue;
+}
+.Audio{
+    width: 15%;
+    position: absolute;
+    right: 37%;
+    bottom: 3vh;
+    color: blue;
+}
+.Video{
+    width: 15%;
+    position: absolute;
+    right: 20%;
+    bottom: 3vh;
+    color: blue;
+}
+body{
+background-color: rgb(163, 43, 43);
+}

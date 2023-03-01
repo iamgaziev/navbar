@@ -1,0 +1,105 @@
+nav{
+    text-align: center;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(1, 236, 1);
+    width: 80%;
+    height: 10vh;
+    margin: -1vh;
+    padding: 0%;
+    position: absolute;
+    left: 10%;
+}
+.Menu{
+    width: 15%;
+    position: absolute;
+    left: 13%;
+    bottom: 3vh;
+    color: blue;
+}
+.Image{
+    width: 15%;
+    position: absolute;
+    left: 30%;
+    bottom: 3vh;
+    color: blue;
+}
+.Audio{
+    width: 15%;
+    position: absolute;
+    right: 37%;
+    bottom: 3vh;
+    color: blue;
+}
+.Video{
+    width: 15%;
+    position: absolute;
+    right: 20%;
+    bottom: 3vh;
+    color: blue;
+}
+body{
+background-color: rgb(163, 43, 43);
+}.images{
+    display: flex;
+    width: 80%;
+    height: 40vh;
+    position: absolute;
+    top: 20vh;
+    left: 13%;
+    right: 10%;
+    }
+    .surat1{
+        width: 30%;
+        height: 40vh;
+        border-radius: 2vh;
+        border: 3px solid black;
+        position: absolute;
+        right: 5%;
+    }
+    .surat2{
+        width: 30%;
+        height: 40vh;
+        border-radius: 2vh;
+        border: 3px solid black;
+    }
+    .surat3{
+        width: 30%;
+        height: 40vh;
+        border-radius: 2vh;
+        border: 3px solid black;
+        position: absolute;
+        right: 37%;
+    }
+.images{
+    display: flex;
+    width: 80%;
+    height: 40vh;
+    position: absolute;
+    top: 20vh;
+    left: 13%;
+    right: 10%;
+    }
+    .surat1{
+        width: 30%;
+        height: 40vh;
+        border-radius: 2vh;
+        border: 3px solid black;
+        position: absolute;
+        right: 5%;
+    }
+    .surat2{
+        width: 30%;
+        height: 40vh;
+        border-radius: 2vh;
+        border: 3px solid black;
+    }
+    .surat3{
+        width: 30%;
+        height: 40vh;
+        border-radius: 2vh;
+        border: 3px solid black;
+        position: absolute;
+        right: 37%;
+    }
